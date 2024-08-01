@@ -45,6 +45,9 @@ I have filtered the dataset to get only the relevant columns:
 
 ## Task #1: Overview Report
 
+![image](https://github.com/user-attachments/assets/1b792116-302d-4c35-bb0f-f37b8d0611ca)
+
+
 ### Insights
 
 1. **Total Streams**: Amount to an impressive total of **486 billion streams**, indicating a high level of engagement and popularity for the tracks featured.
@@ -67,6 +70,10 @@ I have filtered the dataset to get only the relevant columns:
 
 ## Task #2: Detailed Analysis of The Weeknd
 
+![The Weeknd Overview](https://github.com/user-attachments/assets/f1a17855-d2bd-49ac-a9f9-e042c55cecb8)
+
+![Top Songs Overview](https://github.com/user-attachments/assets/48f86fed-f686-4f42-8a43-9154545ab73f)
+
 ### Insights
 
 1. **Monthly Streams**: The Weeknd rakes in almost **2 billion streams** monthly.
@@ -81,9 +88,3 @@ I have filtered the dataset to get only the relevant columns:
 8. **Top 5 Solo Artists by Total Streams**: He has accumulated **13.8 billion total streams** in his solo ventures, placing him among the top solo artists and demonstrating his talent for not needing any other feature artists.
 
 ---
-
-### Visuals
-
-![The Weeknd Overview](https://github.com/user-attachments/assets/f1a17855-d2bd-49ac-a9f9-e042c55cecb8)
-
-![Top Songs Overview](https://github.com/user-attachments/assets/48f86fed-f686-4f42-8a43-9154545ab73f)
