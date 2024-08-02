@@ -72,7 +72,8 @@ I have filtered the dataset to get only the relevant columns:
 
 ![The Weeknd Overview](https://github.com/user-attachments/assets/f1a17855-d2bd-49ac-a9f9-e042c55cecb8)
 
-![Top Songs Overview](https://github.com/user-attachments/assets/48f86fed-f686-4f42-8a43-9154545ab73f)
+![image](https://github.com/user-attachments/assets/8845d2f4-6719-4850-9e82-c2b71f1ec737)
+
 
 ### Insights
 
